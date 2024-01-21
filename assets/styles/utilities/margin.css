@@ -1,0 +1,168 @@
+.m {
+  --_m-size: var(--normal, 16px);
+
+  margin: var(--_m-size);
+}
+
+.mt {
+  --_mt-size: var(--normal, 16px);
+
+  margin-top: var(--_mt-size);
+}
+
+.mr {
+  --_mr-size: var(--normal, 16px);
+
+  margin-right: var(--_mr-size);
+}
+
+.mb {
+  --_mb-size: var(--normal, 16px);
+
+  margin-bottom: var(--_mb-size);
+}
+
+.ml {
+  --ml-size: var(--normal, 16px);
+
+  margin-left: var(--ml-size);
+}
+
+.mx {
+  --mx-size: var(--normal, 16px);
+
+  margin-right: var(--mx-size);
+  margin-left: var(--mx-size);
+}
+
+.my {
+  --my-size: var(--normal, 16px);
+
+  margin-top: var(--my-size);
+  margin-bottom: var(--my-size);
+}
+
+
+.m-mini {
+  margin: var(--mini);
+}
+
+.m-small {
+  margin: var(--small);
+}
+
+.m-bs {
+  margin: var(--base-space);
+}
+
+.m-large {
+  margin: var(--large);
+}
+
+.mt-mini {
+  margin-top: var(--mini);
+}
+
+.mt-small {
+  margin-top: var(--small);
+}
+
+.mt-bs {
+  margin-top: var(--base-space);
+}
+
+.mt-large {
+  margin-top: var(--large);
+}
+
+
+.mr-mini {
+  margin-right: var(--mini);
+}
+
+.mr-small {
+  margin-right: var(--small);
+}
+
+.mr-bs {
+  margin-right: var(--base-space);
+}
+
+.mr-large {
+  margin-right: var(--large);
+}
+
+
+.mb-mini {
+  margin-bottom: var(--mini);
+}
+
+.mb-small {
+  margin-bottom: var(--small);
+}
+
+.mb-bs {
+  margin-bottom: var(--base-space);
+}
+
+.mb-large {
+  margin-bottom: var(--large);
+}
+
+.ml-mini {
+  margin-left: var(--mini);
+}
+
+.ml-small {
+  margin-left: var(--small);
+}
+
+.ml-bs {
+  margin-left: var(--base-space);
+}
+
+.ml-large {
+  margin-left: var(--large);
+}
+
+
+.mx-mini {
+  margin-right: var(--mini);
+  margin-left: var(--mini);
+}
+
+.mx-small {
+  margin-right: var(--small);
+  margin-left: var(--small);
+}
+
+.mx-bs {
+  margin-right: var(--base-space);
+  margin-left: var(--base-space);
+}
+
+.mx-large {
+  margin-right: var(--large);
+  margin-left: var(--large);
+}
+
+
+.my-mini {
+  margin-top: var(--mini);
+  margin-bottom: var(--mini);
+}
+
+.my-small {
+  margin-top: var(--small);
+  margin-bottom: var(--small);
+}
+
+.my-bs {
+  margin-top: var(--base-space);
+  margin-bottom: var(--base-space);
+}
+
+.my-large {
+  margin-top: var(--large);
+  margin-bottom: var(--large);
+}
