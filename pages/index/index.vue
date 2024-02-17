@@ -4,6 +4,7 @@
 <template>
   <the-up class="the-up" />
   <the-down class="the-down" />
+  <the-card />
 </template>
 
 <style scoped>
